@@ -1,0 +1,16 @@
+{
+  "name": "full-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harsh kuamr",
+  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "description": ""
+}
